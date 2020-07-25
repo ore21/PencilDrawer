@@ -16,6 +16,7 @@
 		3F16173924B4CE8600B6353B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F16173724B4CE8600B6353B /* LaunchScreen.storyboard */; };
 		3F16174424B4CE8600B6353B /* PencilDrawerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F16174324B4CE8600B6353B /* PencilDrawerTests.swift */; };
 		3F16174F24B4CE8600B6353B /* PencilDrawerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F16174E24B4CE8600B6353B /* PencilDrawerUITests.swift */; };
+		3FEA2B1824CBBF37000FE271 /* GoogleService-Info (1).plist in Resources */ = {isa = PBXBuildFile; fileRef = 3FEA2B1724CBBF37000FE271 /* GoogleService-Info (1).plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3F16174A24B4CE8600B6353B /* PencilDrawerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PencilDrawerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F16174E24B4CE8600B6353B /* PencilDrawerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PencilDrawerUITests.swift; sourceTree = "<group>"; };
 		3F16175024B4CE8600B6353B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FEA2B1724CBBF37000FE271 /* GoogleService-Info (1).plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info (1).plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				3F16173724B4CE8600B6353B /* LaunchScreen.storyboard */,
 				3F16173A24B4CE8600B6353B /* Info.plist */,
 				3F16173224B4CE8200B6353B /* PencilDrawer.xcdatamodeld */,
+				3FEA2B1724CBBF37000FE271 /* GoogleService-Info (1).plist */,
 			);
 			path = PencilDrawer;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				3F16173924B4CE8600B6353B /* LaunchScreen.storyboard in Resources */,
 				3F16173624B4CE8600B6353B /* Assets.xcassets in Resources */,
 				3F16173124B4CE8200B6353B /* Main.storyboard in Resources */,
+				3FEA2B1824CBBF37000FE271 /* GoogleService-Info (1).plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
