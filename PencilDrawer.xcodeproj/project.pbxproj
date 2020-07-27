@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3F16172624B4CE8200B6353B /* PencilDrawer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PencilDrawer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F16172624B4CE8200B6353B /* Pencil Drawer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pencil Drawer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F16172924B4CE8200B6353B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F16172B24B4CE8200B6353B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3F16172D24B4CE8200B6353B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 		3F16172724B4CE8200B6353B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F16172624B4CE8200B6353B /* PencilDrawer.app */,
+				3F16172624B4CE8200B6353B /* Pencil Drawer.app */,
 				3F16173F24B4CE8600B6353B /* PencilDrawerTests.xctest */,
 				3F16174A24B4CE8600B6353B /* PencilDrawerUITests.xctest */,
 			);
@@ -151,7 +151,7 @@
 			);
 			name = PencilDrawer;
 			productName = PencilDrawer;
-			productReference = 3F16172624B4CE8200B6353B /* PencilDrawer.app */;
+			productReference = 3F16172624B4CE8200B6353B /* Pencil Drawer.app */;
 			productType = "com.apple.product-type.application";
 		};
 		3F16173E24B4CE8600B6353B /* PencilDrawerTests */ = {
@@ -443,15 +443,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.0.1;
 				DEVELOPMENT_TEAM = 6G7883DT2G;
 				INFOPLIST_FILE = PencilDrawer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "bgonzalez526-students.mchenry.edu.PencilDrawer";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Pencil Drawer";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -462,15 +463,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.0.1;
 				DEVELOPMENT_TEAM = 6G7883DT2G;
 				INFOPLIST_FILE = PencilDrawer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "bgonzalez526-students.mchenry.edu.PencilDrawer";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Pencil Drawer";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

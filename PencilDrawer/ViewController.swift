@@ -27,7 +27,7 @@ class ViewController: UIViewController, PKCanvasViewDelegate, PKToolPickerObserv
         canvasView.drawing = drawing
         
         canvasView.alwaysBounceVertical = true
-        canvasView.allowsFingerDrawing = true
+        canvasView.allowsFingerDrawing = false
         
         if let window = parent?.view.window,
             let toolPicker = PKToolPicker.shared(for: window) {
